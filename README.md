@@ -1,5 +1,3 @@
-<img align="center" src="Img/RedTiger-Banner.png" width="100%"> 
-
 <h1 align="center">Multi-Tools</h1>
 
 <p align="center">
